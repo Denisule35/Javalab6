@@ -1,0 +1,60 @@
+[
+  {
+    "nume": "Marcel Popescu",
+    "postul": "Manager",
+    "data_angajarii": "2020-05-15",
+    "salariu": 7500.5
+  },
+  {
+    "nume": "Maria Gigel",
+    "postul": "Contabil",
+    "data_angajarii": "2018-09-10",
+    "salariu": 2200
+  },
+  {
+    "nume": "Andrei Dumitru",
+    "postul": "Inginer Software",
+    "data_angajarii": "2021-01-20",
+    "salariu": 8500.75
+  },
+  {
+    "nume": "Elena Vasilescu",
+    "postul": "Resurse Umane",
+    "data_angajarii": "2019-07-05",
+    "salariu": 5800.25
+  },
+  {
+    "nume": "George Stan",
+    "postul": "Tehnician",
+    "data_angajarii": "2017-11-30",
+    "salariu": 5400.0
+  },
+  {
+    "nume": "Kocsis Denis",
+    "postul": "sef Automatizari",
+    "data_angajarii": "2017-11-29",
+    "salariu": 5400.0
+  },
+
+  {
+    "nume": "Mangu Dario",
+    "postul": "director Salubrizari",
+    "data_angajarii": "2024-04-21",
+    "salariu": 5400.0
+  },
+
+  {
+    "nume": "Locu Bocu",
+    "postul": "Menajer",
+    "data_angajarii": "2024-08-21",
+    "salariu": 5400.0
+  },
+
+  {
+    "nume": "Miciu Bocu",
+    "postul": "Sofer",
+    "data_angajarii": "2024-06-21",
+    "salariu": 5400.0
+  }
+
+]
